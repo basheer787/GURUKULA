@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gurukula - Ancient Indian Education</title>
+    <style>
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            color: #ffffff;
+            background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('gurukul.webp');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header {
+            background-color: rgba(249, 241, 250, 0.6); 
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            width: 100%;
+            max-width: 600px;
+        }
+
+        h1 {
+            font-size: 1.8em;
+            color: #0aa455;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 1em;
+            color: #2a084d;
+        }
+
+        
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            margin-top: 20px;
+        }
+
+        nav ul li {
+            margin: 12px 0;
+        }
+
+        nav ul li a {
+            color: #dfdc14;
+            text-decoration: none;
+            font-weight: normal;
+            font-size: 1.2em;
+            padding: 8px 16px;
+            display: inline-block;
+            transition: transform 0.3s ease, color 0.3s ease;
+        }
+
+        
+        nav ul li a:hover {
+            color: #166ead;
+            transform: translateX(10px); 
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to the World of Gurukula</h1>
+        <p>Explore the ancient Indian educational system that fostered wisdom, discipline, and character.</p>
+    </header>
+
+    
+    <nav>
+        <ul>
+            <li><a href="about.html">About Gurukula</a></li>
+            <li><a href="structure.html">Structure and Lifestyle</a></li>
+            <li><a href="subjects.html">Subjects Taught</a></li>
+            <li><a href="daily_life.html">Daily Life and Discipline</a></li>
+            <li><a href="legacy.html">Legacy of Gurukula</a></li>
+            <li><a href="registrationform.html">Registration Form</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
+
+2.about
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Gurukula</title>
+</head>
+<body style= "background: url(about.ca3.jpg);
+                background-size:cover;
+                background-repeat: no-repeat;
+                ">
+
+    <header>
+        <h1>About Gurukula</h1>
+    </header>
+    
+        <h2><p>The Gurukula system was a traditional educational institution in ancient India where students lived with their teacher (Guru) to gain knowledge and skills.
+        This system emphasized a deep bond between teacher and student, creating an environment of mutual respect and dedicated learning.</p>
+        <h1>about gurukula</h1>
+        <br>The Gurukula (or Gurukul) system is an ancient educational practice from India where students (referred to as shishyas) live and study under the guidance of a teacher (guru) in a residential setup.
+        It was more than just academic education; it focused on the holistic development of students in knowledge, skills, morals, and spiritual growth.</br>
+            
+        <h2>Key Aspects of the Gurukula System:</h2>
+        <br>Residential Learning: Students lived with the teacher in the same environment, often away from cities, to focus entirely on learning.</br>
+         <br>Teacher-Student Bond: The relationship between the guru and shishya was close, akin to a family, where respect, trust, and devotion were paramount.</br>
+        <br>Practical and Ethical Education: Alongside academics, students learned practical skills (like farming, trade, or warfare) and values, such as discipline, respect, and self-reliance.</br>
+        <br> Life Skills and Spiritual Knowledge: The system also emphasized teaching life skills, philosophical and spiritual insights, and the core values of Hindu philosophy, like Dharma (duty), Karma (action), and Moksha (liberation).</br>
+        <br>The gurukula system was eventually replaced by colonial and modern educational systems, yet it remains a model for holistic education and is sometimes revived in modern gurukulas, where traditional knowledge is taught alongside formal education.</br></h2>
+            
+            
+            
+            
+            
+            
+         </p>
+    
+</body>
+</html>
+
+
+
+3.structure and lifestyle
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Structure and Lifestyle</title>
+</head>
+
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+        font-size: 1em;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        border: 1px solid #227a90;
+        padding: 8px;
+        text-align: center;
+    }
+    th {
+        background-color: #029db5;
+    }
+</style>
+</head>
+<body style= "background: url(str.png);
+                background-size:cover;
+                background-repeat: no-repeat;
+                ">
+<body text="red"></body>
+
+<h2>Gurukula Structure and Lifestyle</h2>
+
+<table>
+<tr>
+    <th>Aspect</th>
+    <th>Description</th>
+</tr>
+<tr>
+    <td>Wake-up Time</td>
+    <td>Students rise before dawn to begin their day.</td>
+</tr>
+<tr>
+    <td>Morning Meditation</td>
+    <td>Day starts with meditation or chanting for mental clarity.</td>
+</tr>
+<tr>
+    <td>Physical Training</td>
+    <td>Exercises, including yoga or martial arts, are part of the morning routine.</td>
+</tr>
+<tr>
+    <td>Bathing and Cleanliness</td>
+    <td>Personal hygiene is maintained with a morning bath.</td>
+</tr>
+<tr>
+    <td>Scripture Study</td>
+    <td>Students study scriptures such as the Vedas and Upanishads.</td>
+</tr>
+<tr>
+    <td>Practical Skills</td>
+    <td>Learning includes practical skills like farming or craftsmanship.</td>
+</tr>
+<tr>
+    <td>Midday Meal</td>
+    <td>Students prepare and eat simple, vegetarian meals.</td>
+</tr>
+<tr>
+    <td>Rest Period</td>
+    <td>A short rest after lunch to rejuvenate for the afternoon.</td>
+</tr>
+<tr>
+    <td>Afternoon Classes</td>
+    <td>Continued study, discussions, and debates with the guru.</td>
+</tr>
+<tr>
+    <td>Service and Chores</td>
+    <td>Students help in cooking, cleaning, and other chores to learn self-sufficiency.</td>
+</tr>
+<tr>
+    <td>Evening Prayer</td>
+    <td>The day closes with prayers and chanting in the evening.</td>
+</tr>
+<tr>
+    <td>Reflection Time</td>
+    <td>Time is set aside for reflection on the day learning.</td>
+</tr>
+<tr>
+    <td>Discipline</td>
+    <td>Discipline is instilled through structured routines and responsibilities.</td>
+</tr>
+<tr>
+    <td>Teacher-Student Bond</td>
+    <td>Strong, familial bonds are formed between students and their guru.</td>
+</tr>
+<tr>
+    <td>Community Living</td>
+    <td>Living together teaches students respect, teamwork, and compassion.</td>
+</tr>
+</table>
+
+</body>
+</html>
+
+4.subjects Taught
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subjects Taught</title>
+</head>
+<style>
+    
+</style>
+<body style= "background: url(subjects.html);
+                background-size:cover;
+                background-repeat: no-repeat;
+                ">
+<body text="red"></body>
+    <header>
+        <h1>Subjects Taught in Gurukula</h1>
+    </header>
+    <h2>Subjects Taught in Gurukula</h2>
+
+    <h3><ol>
+        <li>Vedic Studies - Rigveda, Samaveda, Yajurveda, Atharvaveda</li>
+        <li>Philosophy - Upanishads, Vedanta, and Dharma Shastras</li>
+        <li>Sanskrit Language and Grammar</li>
+        <li>Mathematics - Arithmetic, Geometry, and Algebra</li>
+        <li>Logic and Debate - Nyaya and Tarka (Logic and reasoning)</li>
+        <li>Sciences - Ayurveda (medicine), Jyotisha (astronomy/astrology)</li>
+        <li>Ethics and Morality - Understanding Dharma (righteous living)</li>
+        <li>Yoga and Meditation</li>
+        <li>Physical Training - Archery, swordsmanship, and self-defense</li>
+        <li>Music and Arts - Classical music, dance, and fine arts</li>
+        <li>Economics and Governance - Arthashastra, political science, and administration</li>
+        <li>Environmental Studies - Understanding nature and seasons</li>
+        <li>Agriculture and Farming - Knowledge of crops and seasons</li>
+        <li>Self-Discipline and Personal Development</li>
+        <li>Spiritual Practices - Chanting, rituals, and worship</li>
+    </ol></h3>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+4.daily ;ife and discipline:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Life and Discipline</title>
+</head>
+<style>
+
+</style>
+<body style= "background: url(time.ca3.jpg);
+                background-size:cover;
+                background-repeat: no-repeat;
+                ">
+    <header>
+        <h1>Daily Life and Discipline in Gurukula</h1>
+    </header>
+    
+    <p>The daily life of Gurukula students was structured with a strong emphasis on discipline.
+    A typical day included early rising, meditation, study, physical activity,
+     and learning household skills.</p>
+     <p><h3>Daily life in a traditional gurukula was structured around a balanced routine designed for intellectual, physical, and spiritual growth.
+         Here a look at what a typical day in a gurukula might have looked like:</h3>
+
+        <h2>Morning Routine</h2>
+        <br>Pre-dawn Meditation and Prayer: The day began early, often before sunrise, with meditation or chanting of mantras. This was to cultivate mindfulness and prepare the mind for learning.</br>
+        <br>Physical Exercise: Students engaged in exercises to build strength, endurance, and flexibility. Physical training varied, including yoga, martial arts, or archery for those learning warfare.</br>
+        <br>Bathing and Self-Care: Personal cleanliness was emphasized, so students bathed early to purify themselves before engaging in studies.</br>
+        <h2>Academic and Practical Learning</h2>
+        <br>Scriptural and Subject Study: After morning prayers and exercises, students gathered to study various subjects based on their guru's specialization. They learned scriptures like the Vedas, Upanishads, and other texts relevant to their education.
+        Practical Skills and Vocational Training: Many gurukulas included training in specific skills, such as medicine, astrology, farming, and craftsmanship. Hands-on learning was highly valued, so students often practiced these skills in real-life scenarios.
+        Midday Meal and Rest</br>
+        <br>Simple Meals: Meals in the gurukula were modest and nutritious, usually vegetarian, prepared by the students themselves or in rotation as part of their duties. Food was considered a form of prasad (offering) and was eaten in gratitude.</br>
+        <br>Rest Period: After meals, students had a brief rest period. This was to rejuvenate their minds and bodies for the afternoon session.</br>
+        <h2>Afternoon Routine</h2>
+        <br>Continued Studies and Discussions: The afternoon was reserved for more studies and discussions with the guru, where students had a chance to ask questions and deepen their understanding.
+         Group discussions and debates were common, enhancing critical thinking.</br>
+        <br>Service and Chores: To instill humility and self-discipline, students contributed to the maintenance of the gurukula. They participated in cleaning, cooking, gardening, and other chores.</br>
+        <h2>Evening Routine</h2>
+        <br>Evening Prayers and Meditation: As the day drew to a close, students gathered again for prayers, chanting, or meditation. This routine strengthened their focus and sense of community.</br>
+        <br>Reflection and Review: The evening was also a time to reflect on the day learning and seek clarification on complex topics.</br>
+        <h2> Routine</h2>
+        <br>Simple Dinner and Rest: The day concluded with a light meal, followed by preparation for sleep. Early bedtime was typical, given the pre-dawn start of the following day.
+        The Holistic Balance of Gurukula Life</br>
+        <br>The structure of daily life in a gurukula created a balanced approach to education, incorporating:</br>
+        
+        <br>Intellectual Study: Scriptures, philosophy, sciences, and language.</br>
+        <br>Physical Training: Activities for health, strength, and agility.</br>
+        <br>Emotional and Moral Development: Through discussions, ethical teachings, and service to others.</br>
+       <br>Spiritual Growth: Meditation, prayer, and respect for nature and the universe</br></p>
+    
+</body>
+</html>
+
+5.legacy of gurukula
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legacy of Gurukula</title>
+    
+</head>
+<body style= "background: url(legacy.ca3.png);
+                background-size:contain;
+                background-repeat: no-repeat;
+                ">
+    <body text="orange"></body> 
+    <header>
+        <h1>The Legacy of Gurukula</h1>
+    </header>
+    <main>
+        <p>The Gurukula system left an enduring legacy in India, influencing both modern education and spiritual development worldwide. 
+        Its principles of dedicated learning and the importance of teacher-student bonds continue to inspire.</p>
+    </main>
+    <p><h1>Key Aspects of the Gurukula Legacy</h1>
+       <h2> Holistic Education:</h2>
+        
+        <br>The gurukula focused on the all-rounded development of a person, incorporating intellectual, physical, and spiritual growth.
+        Modern education systems are increasingly incorporating holistic methods, such as yoga, mindfulness, and character education, inspired by the gurukula approach.</br>
+        <h2>Student-Teacher Bond:</h2>
+        
+        <br>The close mentorship in the gurukula is seen as an ideal model of teaching where students and teachers build a respectful, personal bond.
+        This mentor-student relationship fostered deep learning and personal growth, an approach now reflected in some modern mentorship and apprenticeship programs.</br>
+        <h2>Experiential and Practical Learning:</h2>
+        
+        <br>In the gurukula, learning went beyond books; it was hands-on and experiential. 
+        Practical training in various skills prepared students for real-life challenges.
+        Today, educational models that emphasize project-based, experiential, and skill-oriented learning often draw on the gurukula ethos.</br>
+        <h2>Moral and Ethical Values:</h2>
+        
+        <br>Gurukulas prioritized ethics, compassion, humility, and service. This legacy is echoed in value-based education programs that integrate ethics and character building alongside academic study, particularly in India.</br>
+        <h2>Integration of Spirituality in Education:</h2>
+        
+        <br>Spiritual growth was an integral part of the gurukula system. This concept influenced the integration of meditation, yoga, and mindfulness in schools globally, showing how mental and spiritual well-being supports better learning.
+        Self-Discipline and Community Living</br>
+        
+        <br>The gurukula model instilled discipline and self-sufficiency by having students partake in daily chores and activities for the collective.</br>
+        <br> Modern residential schools and educational camps continue this tradition, aiming to teach responsibility and community values.</br>
+        <h2>Preservation and Propagation of Ancient Knowledge:</h2>
+        
+        <br>The gurukula system ensured the transmission of traditional Indian knowledge, including Vedic texts, classical arts, and philosophy. </br>
+        <br>This has preserved ancient knowledge systems, many of which are still studied and respected worldwide in fields like Ayurveda, astronomy, classical music, and yoga.</br>
+       <h2> Revival of the Gurukula Model</h2>
+        <br>In recent times, there has been a resurgence of gurukulas, where traditional knowledge is taught alongside contemporary education.</br>
+        <br>These gurukulas combine the ancient model with modern curricula, emphasizing not only academic achievement but also cultural and spiritual education.</br>
+        <br>Institutions like the Sri Ramakrishna Mission and Chinmaya Mission have drawn on the gurukula model, as have many ashrams and traditional educational centers across India and the world</br></p>
+</body>
+</html>
+
+6.Registration form
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gurukula Registration Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .form-container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 500px;
+        }
+        .form-container h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #333;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        input, select, textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+<div class="form-container">
+    <h2>Gurukula Registration Form</h2>
+    <form action="/submit_registration" method="POST">
+        <div class="form-group">
+            <label for="fullName">Full Name:</label>
+            <input type="text" id="fullName" name="fullName" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" min="5" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="gender">Gender:</label>
+            <select id="gender" name="gender" required>
+                <option value="">Select</option>
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+                <option value="Other">Other</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="phone">Phone Number:</label>
+            <input type="tel" id="phone" name="phone" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="subjects">Preferred Subjects of Study:</label>
+            <select id="subjects" name="subjects" required>
+                <option value="">Select</option>
+                <option value="Vedic Studies">Vedic Studies</option>
+                <option value="Philosophy">Philosophy</option>
+                <option value="Sanskrit">Sanskrit</option>
+                <option value="Mathematics">Mathematics</option>
+                <option value="Yoga and Meditation">Yoga and Meditation</option>
+                <option value="Music and Arts">Music and Arts</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="message">Why do you want to join the Gurukula?</label>
+            <textarea id="message" name="message" rows="4" placeholder="Write a brief response..." required></textarea>
+        </div>
+        
+        <button type="submit">Register</button>
+    </form>
+</div>
+
+</body>
+</html>
+
